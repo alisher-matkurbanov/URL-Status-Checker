@@ -53,7 +53,7 @@ ROOT_URLCONF = 'status_checker.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['checker_app/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
