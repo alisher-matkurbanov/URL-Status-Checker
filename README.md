@@ -20,3 +20,6 @@ python manage.py runserver
 ```
 
 Go to [app](http://localhost:8000/)
+
+## Note:  
+Didn't have time to implement `check_interval` change in custom view.
