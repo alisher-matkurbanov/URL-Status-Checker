@@ -23,3 +23,8 @@ Go to [app](http://localhost:8000/)
 
 ## Note:  
 Didn't have time to implement `check_interval` change in custom view.
+
+
+## Author:  
+[Alisher Matkurbanov](https://github.com/alisher-matkurbanov)
+alishermatkurbanov0408@gmail.com
